@@ -1,0 +1,142 @@
+201703/01/code-ika.xlsx
+201703/01/code-ikas.xlsx
+201703/01/code-yakka.xlsx
+201703/02/zen_sitei_ika_H2903/青森　コード内容別一覧表（医科）_2017030194230.xlsx
+201703/02/zen_sitei_ika_H2903/岩手　コード内容別一覧表（医科）_20170301100046.xlsx
+201703/02/zen_sitei_ika_H2903/宮城　コード内容別一覧表（医科）_2017030190154.xlsx
+201703/02/zen_sitei_ika_H2903/秋田　コード内容別一覧表（医科）_20170301102256.xlsx
+201703/02/zen_sitei_ika_H2903/山形　コード内容別一覧表（医科）_20170301105149.xlsx
+201703/02/zen_sitei_ika_H2903/福島　コード内容別一覧表（医科）_20170301110717.xlsx
+201703/02/zen_sitei_yakkyoku_H2903/青森　コード内容別一覧表（薬局）_2017030194314.xlsx
+201703/02/zen_sitei_yakkyoku_H2903/岩手　コード内容別一覧表（薬局）_20170301100127.xlsx
+201703/02/zen_sitei_yakkyoku_H2903/宮城　コード内容別一覧表（薬局）_2017030185504.xlsx
+201703/02/zen_sitei_yakkyoku_H2903/秋田　コード内容別一覧表（薬局）_20170301102339.xlsx
+201703/02/zen_sitei_yakkyoku_H2903/山形　コード内容別一覧表（薬局）_20170301105234.xlsx
+201703/02/zen_sitei_yakkyoku_H2903/福島　コード内容別一覧表（薬局）_20170301111339.xlsx
+201703/03/081コード内容別一覧表（医科）茨城h2903.xlsx
+201703/03/085コード内容別一覧表（薬局）茨城h2903.xlsx
+201703/04/091コード内容別一覧表（医科）栃木h2903.xlsx
+201703/04/095コード内容別一覧表（薬局）栃木h2903.xlsx
+201703/05/101コード内容別一覧表（医科）群馬h2903.xlsx
+201703/05/105コード内容別一覧表（薬局）群馬h2903.xlsx
+201703/06/121コード内容別一覧表（医科）千葉h2903.xlsx
+201703/06/125コード内容別一覧表（薬局）千葉h2903.xlsx
+201703/07/131コード内容別一覧表（医科）東京h2903.xlsx
+201703/07/135コード内容別一覧表（薬局）東京h2903.xlsx
+201703/08/141コード内容別一覧表（医科）神奈川h2903.xlsx
+201703/08/145コード内容別一覧表（薬局）神奈川h2903.xlsx
+201703/09/151コード内容別一覧表（医科）新潟h2903.xlsx
+201703/09/155コード内容別一覧表（薬局）新潟h2903.xlsx
+201703/10/191コード内容別一覧表（医科）山梨h2903.xlsx
+201703/10/195コード内容別一覧表（薬局）山梨h2903.xlsx
+201703/11/201コード内容別一覧表（医科）長野h2903.xlsx
+201703/11/205コード内容別一覧表（薬局）長野h2903.xlsx
+201703/12/111コード内容別一覧表（医科）埼玉h2903.xlsx
+201703/12/115コード内容別一覧表（薬局）埼玉h2903.xlsx
+201703/13/コード内容別医療機関一覧表/zen_ika201703/コード内容別一覧表（医科）富山_20170301100852.xlsx
+201703/13/コード内容別医療機関一覧表/zen_ika201703/コード内容別一覧表（医科）石川_20170301101922.xlsx
+201703/13/コード内容別医療機関一覧表/zen_ika201703/コード内容別一覧表（医科）岐阜_20170301102247.xlsx
+201703/13/コード内容別医療機関一覧表/zen_ika201703/コード内容別一覧表（医科）静岡_20170301103013.xlsx
+201703/13/コード内容別医療機関一覧表/zen_ika201703/コード内容別一覧表（医科）愛知_20170301100046.xlsx
+201703/13/コード内容別医療機関一覧表/zen_ika201703/コード内容別一覧表（医科）三重_20170301103439.xlsx
+201703/13/コード内容別医療機関一覧表/zen_yaku201703/コード内容別一覧表（薬局）富山_20170301100852.xlsx
+201703/13/コード内容別医療機関一覧表/zen_yaku201703/コード内容別一覧表（薬局）石川_20170301101922.xlsx
+201703/13/コード内容別医療機関一覧表/zen_yaku201703/コード内容別一覧表（薬局）岐阜_20170301102247.xlsx
+201703/13/コード内容別医療機関一覧表/zen_yaku201703/コード内容別一覧表（薬局）静岡_20170301103013.xlsx
+201703/13/コード内容別医療機関一覧表/zen_yaku201703/コード内容別一覧表（薬局）愛知_20170301100046.xlsx
+201703/13/コード内容別医療機関一覧表/zen_yaku201703/コード内容別一覧表（薬局）三重_20170301103439.xlsx
+201703/14/保険医療機関・保険薬局の指定一覧/3fukui-kikanzentai-ika.xls
+201703/14/保険医療機関・保険薬局の指定一覧/3fukui-kikanzentai-yakkyoku.xls
+201703/14/保険医療機関・保険薬局の指定一覧/3siga-kikanzentai-ika.xls
+201703/14/保険医療機関・保険薬局の指定一覧/3siga-kikanzentai-yakkyoku.xls
+201703/14/保険医療機関・保険薬局の指定一覧/3kyoto-kikanzentai-ika.xls
+201703/14/保険医療機関・保険薬局の指定一覧/3kyoto-kikanzentai-yakkyoku.xls
+201703/14/保険医療機関・保険薬局の指定一覧/3oosaka-kikanzentai-ika.xls
+201703/14/保険医療機関・保険薬局の指定一覧/3oosaka-kikanzentai-yakkyoku.xls
+201703/14/保険医療機関・保険薬局の指定一覧/3hyougo-kikanzentai-ika.xls
+201703/14/保険医療機関・保険薬局の指定一覧/3hyougo-kikanzentai-yakkyoku.xls
+201703/14/保険医療機関・保険薬局の指定一覧/3nara-kikanzentai-ika.xls
+201703/14/保険医療機関・保険薬局の指定一覧/3nara-kikanzentai-yakkyoku.xls
+201703/14/保険医療機関・保険薬局の指定一覧/3wakayama-kikanzentai-ika.xls
+201703/14/保険医療機関・保険薬局の指定一覧/3wakayama-kikanzentai-yakkyoku.xls
+201703/15/コード内容別医療機関一覧表/31code2903-1.xls
+201703/15/コード内容別医療機関一覧表/31code2903-3.xls
+201703/15/コード内容別医療機関一覧表/32code2903-1.xls
+201703/15/コード内容別医療機関一覧表/32code2903-3.xls
+201703/15/コード内容別医療機関一覧表/33code2903-1.xls
+201703/15/コード内容別医療機関一覧表/33code2903-3.xls
+201703/15/コード内容別医療機関一覧表/34code2903-1.xls
+201703/15/コード内容別医療機関一覧表/34code2903-3.xls
+201703/15/コード内容別医療機関一覧表/35code2903-1.xls
+201703/15/コード内容別医療機関一覧表/35code2903-3.xls
+201703/16/コード内容別医療機関一覧表/01_04.xls
+201703/16/コード内容別医療機関一覧表/01_06.xls
+201703/16/コード内容別医療機関一覧表/01_01.xls
+201703/16/コード内容別医療機関一覧表/01_03.xls
+201703/16/コード内容別医療機関一覧表/01_07.xls
+201703/16/コード内容別医療機関一覧表/01_09.xls
+201703/16/コード内容別医療機関一覧表/01_10.xls
+201703/16/コード内容別医療機関一覧表/01_12.xls
+201703/17/コード内容別医療機関一覧表/fukuoka/fukuoka_ika_02.xlsx
+201703/17/コード内容別医療機関一覧表/fukuoka/fukuoka_yakkyoku_02.xlsx
+201703/17/コード内容別医療機関一覧表/kagoshima/kagoshima_ika_02.xlsx
+201703/17/コード内容別医療機関一覧表/kagoshima/kagoshima_yakkyoku_02.xlsx
+201703/17/コード内容別医療機関一覧表/kumamoto/kumamoto_ika_02.xlsx
+201703/17/コード内容別医療機関一覧表/kumamoto/kumamoto_yakkyoku_02.xlsx
+201703/17/コード内容別医療機関一覧表/miyazaki/miyazaki_ika_02.xlsx
+201703/17/コード内容別医療機関一覧表/miyazaki/miyazaki_yakkyoku_02.xlsx
+201703/17/コード内容別医療機関一覧表/nagasaki/nagasaki_ika_02.xlsx
+201703/17/コード内容別医療機関一覧表/nagasaki/nagasaki_yakkyoku_02.xlsx
+201703/17/コード内容別医療機関一覧表/okinawa/okinawa_ika_02.xlsx
+201703/17/コード内容別医療機関一覧表/okinawa/okinawa_yakkyoku_02.xlsx
+201703/17/コード内容別医療機関一覧表/ooita/ooita_ika_02.xlsx
+201703/17/コード内容別医療機関一覧表/ooita/ooita_yakkyoku_02.xlsx
+201703/17/コード内容別医療機関一覧表/saga/saga_ika_02.xlsx
+201703/17/コード内容別医療機関一覧表/saga/saga_yakkyoku_02.xlsx
+20171215/01_hokkaido/code_ichiran/code-shika2.xlsx
+20171215/02_tohoku/zen_sitei_shika_h2912/青森 コード内容別一覧表（歯科）_2017120184122.xlsx
+20171215/02_tohoku/zen_sitei_shika_h2912/岩手 コード内容別一覧表（歯科）_2017120184959.xlsx
+20171215/02_tohoku/zen_sitei_shika_h2912/宮城 コード内容別一覧表（歯科）_2017120183157.xlsx
+20171215/02_tohoku/zen_sitei_shika_h2912/秋田 コード内容別一覧表（歯科）_2017120190014.xlsx
+20171215/02_tohoku/zen_sitei_shika_h2912/山形 コード内容別一覧表（歯科）_2017120190616.xlsx
+20171215/02_tohoku/zen_sitei_shika_h2912/福島 コード内容別一覧表（歯科）_2017120191324.xlsx
+20171215/03_kanto/shitei_shika_h2912/shitei_shika_h2912/083コード内容別一覧表（歯科）茨城h2912.xlsx
+20171215/03_kanto/shitei_shika_h2912/shitei_shika_h2912/093コード内容別一覧表（歯科）栃木h2912.xlsx
+20171215/03_kanto/shitei_shika_h2912/shitei_shika_h2912/103コード内容別一覧表（歯科）群馬h2912.xlsx
+20171215/03_kanto/shitei_shika_h2912/shitei_shika_h2912/113コード内容別一覧表（歯科）埼玉h2912.xlsx
+20171215/03_kanto/shitei_shika_h2912/shitei_shika_h2912/123コード内容別一覧表（歯科）千葉h2912.xlsx
+20171215/03_kanto/shitei_shika_h2912/shitei_shika_h2912/133コード内容別一覧表（歯科）東京h2912.xlsx
+20171215/03_kanto/shitei_shika_h2912/shitei_shika_h2912/143コード内容別一覧表（歯科）神奈川h2912.xlsx
+20171215/03_kanto/shitei_shika_h2912/shitei_shika_h2912/153コード内容別一覧表（歯科）新潟h2912.xlsx
+20171215/03_kanto/shitei_shika_h2912/shitei_shika_h2912/193コード内容別一覧表（歯科）山梨h2912.xlsx
+20171215/03_kanto/shitei_shika_h2912/shitei_shika_h2912/203コード内容別一覧表（歯科）長野h2912.xlsx
+20171215/04_tokai/zen_shika201712/コード内容別一覧表（歯科）富山_20171201190252.xlsx
+20171215/04_tokai/zen_shika201712/コード内容別一覧表（歯科）石川_20171201190537.xlsx
+20171215/04_tokai/zen_shika201712/コード内容別一覧表（歯科）岐阜_20171201190811.xlsx
+20171215/04_tokai/zen_shika201712/コード内容別一覧表（歯科）静岡_20171201191053.xlsx
+20171215/04_tokai/zen_shika201712/コード内容別一覧表（歯科）愛知_20171201182203.xlsx
+20171215/04_tokai/zen_shika201712/コード内容別一覧表（歯科）三重_20171201191335.xlsx
+20171215/05_kinki/12fukui-kikanzentai-sika.xls
+20171215/05_kinki/12siga-kikanzentai-sika.xls
+20171215/05_kinki/12kyoto-kikanzentai-sika.xls
+20171215/05_kinki/12oosaka-kikanzentai-sika.xls
+20171215/05_kinki/12hyougo-kikanzentai-sika.xls
+20171215/05_kinki/12nara-kikanzentai-sika.xls
+20171215/05_kinki/12wakayama-kikanzentai-sika.xls
+20171215/06_chugoku/31code2912-2.xls
+20171215/06_chugoku/32code2912-2.xls
+20171215/06_chugoku/33code2912-2.xls
+20171215/06_chugoku/34code2912-2.xls
+20171215/06_chugoku/35code2912-2.xls
+20171215/07_shikoku/01_05.xls
+20171215/07_shikoku/01_02.xls
+20171215/07_shikoku/01_08.xls
+20171215/07_shikoku/01_11.xls
+20171215/08_kyushu/fukuoka/fukuoka_shika_02.xlsx
+20171215/08_kyushu/kagoshima/kagoshima_shika_02.xlsx
+20171215/08_kyushu/kumamoto/kumamoto_shika_02.xlsx
+20171215/08_kyushu/miyazaki/miyazaki_shika_02.xlsx
+20171215/08_kyushu/nagasaki/nagasaki_shika_02.xlsx
+20171215/08_kyushu/okinawa/okinawa_shika_02.xlsx
+20171215/08_kyushu/ooita/ooita_shika_02.xlsx
+20171215/08_kyushu/saga/saga_shika_02.xlsx
